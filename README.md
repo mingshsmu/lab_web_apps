@@ -13,8 +13,8 @@ A shiny web app to help process the data of some wet-lab experiments.
 ```shell
 1. Download and install R, Rstudio, and corresponding dependencies;
 2. Download this project;
-3. Open the `app.R` file via **Rstudio**;
-4. Click the `Run App` button at the **Rstudio** interface;
+3. Open the `app.R` file via Rstudio;
+4. Click the `Run App` button at the Rstudio interface;
 5. Enjoy yourself. ヾ(ｏ･ω･)ﾉ
 ```
 
