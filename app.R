@@ -463,18 +463,16 @@ ui <- navbarPage(title = "Lab web apps",
                  
                  tabPanel(title = "Developers",icon = icon("user-astronaut"),
                  fluidRow(column(1,img(src = "logo.jpg",width=150)),
-                          column(2,p(a("Ming小明师兄", target="_blank"),style = "font-size:25px"),
-                          p("e-mail: wgm657158702@163.com",style = "font-size:20px")))
+                          column(2,p(a("Ming小明", target="_blank"),style = "font-size:25px"),
+                          ))
                           
                           
                              
                  ),
                  tabPanel(title = "Support",icon = icon("battery-half"),
-                          p(a("minglab.tech",href="http://minglab.tech/",style="color: #386cb0; font-weight: bold; text-decoration: underline;"),
-                          "小明实验室 试运行1年",style = "font-size:25px"),
-                          p("过期时间：",a("2025-04-17 20:00")," (每月更新)",style = "font-size:25px"),
-                          p(a("打赏")," 可以使网站功能增多，运行时间更久哦~",style = "font-size:25px"),
-                          p("如果有个性化分析需求或者bug，可以向 小明师兄 ",a("发邮件"),"，小明师兄制作或修改完成后会很快部署的~！",style = "font-size:25px"),
+                          
+                          p("感谢各位院士杰青们的 ",a("打赏") , "(✪ω✪)",style = "font-size:25px"),
+                         
                           br(),
                           img(src="wxzzm.jpg",width=300)
                              
