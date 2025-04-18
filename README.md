@@ -13,10 +13,9 @@ A shiny web app to help process the data of some wet-lab experiments.
 ```shell
 1. Download and install R, Rstudio, and corresponding dependencies;
 2. Download this project;
-3. Open this project via Rstudio (if there is no .Rproj file, you can create project through `Existing Directory`);
-4. Open the `app.R` file;
-5. Click the `Run App` button at the Rstudio interface;
-6. Enjoy yourself. ヾ(ｏ･ω･)ﾉ
+3. Open the `app.R` file via **Rstudio**;
+4. Click the `Run App` button at the **Rstudio** interface;
+5. Enjoy yourself. ヾ(ｏ･ω･)ﾉ
 ```
 
 ### Dependencies
